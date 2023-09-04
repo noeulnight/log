@@ -11,6 +11,10 @@ const CONFIG = {
     instagram: "1imtaehyun",
   },
   projects: [
+    {
+      name: `Github`,
+      href: "https://github.com/noeulnight",
+    },
   ],
   // blog setting (required)
   blog: {
